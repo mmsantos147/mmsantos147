@@ -1,4 +1,6 @@
-
+### Sobre mim
+---
+- Sou aluno de ciencia da computação na UNIFAL-MG
 <!--
 **mmsantos147/mmsantos147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
